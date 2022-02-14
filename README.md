@@ -1,10 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# React js Template
+# Math Magicians
+create the Math Magicians app which inculde a functionality for calculator
+![screenshot](./src/assets/screen.png)
 
 ## features:
-- Linters added for react and redux
-- Using Gitflow
+- Add UI for calculator by using react components
+
+## Built using
+
+- React
+- CSS
+- Linters
 
 ## Getting Started
 
