@@ -6,6 +6,7 @@ create the Math Magicians app which inculde a functionality for calculator
 
 ## features:
 - Add UI for calculator by using react components
+- Add Events to calcultor
 
 ## Built using
 
