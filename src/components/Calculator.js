@@ -43,26 +43,29 @@ const Calculator = () => {
   };
   const { total, next } = data;
   return (
-    <div>
-      {next ? (
-        <div className="output-screen">{next}</div>
-      ) : (
-        <div className="output-screen">{total}</div>
-      )}
-      <div className="btn-rows">
-        {btns.map((btnName) => (
-          <button
-            onClick={clikHandler}
-            name={btnName}
-            type="button"
-            className={`btn ${btnName === '0' ? 'btn-zero' : ''} ${
-              btnName === '=' ? 'btn-equal' : ''
-            }`}
-            key={btnName}
-          >
-            {btnName}
-          </button>
-        ))}
+    <div className="wrapper">
+      <h1 className="sub-title">Lets do some Math</h1>
+      <div>
+        {next ? (
+          <div className="output-screen">{next}</div>
+        ) : (
+          <div className="output-screen">{total}</div>
+        )}
+        <div className="btn-rows">
+          {btns.map((btnName) => (
+            <button
+              onClick={clikHandler}
+              name={btnName}
+              type="button"
+              className={`btn ${btnName === '0' ? 'btn-zero' : ''} ${
+                btnName === '=' ? 'btn-equal' : ''
+              }`}
+              key={btnName}
+            >
+              {btnName}
+            </button>
+          ))}
+        </div>
       </div>
     </div>
   );

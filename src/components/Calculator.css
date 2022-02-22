@@ -1,3 +1,9 @@
+.sub-title {
+  position: absolute;
+  left: 20px;
+  margin-top: 0;
+}
+
 .output-screen {
   background-color: #858694;
   margin-bottom: 2px;
