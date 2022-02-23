@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing App component App renders correctly 1`] = `
+Array [
+  <ul
+    className="header"
+  >
+    <li>
+      <a
+        aria-current="page"
+        className="active"
+        href="/"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "orange",
+            "margin": "1rem",
+            "textDecoration": "none",
+          }
+        }
+      >
+        Home
+      </a>
+    </li>
+    <li>
+      <a
+        className=""
+        href="/calculator"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "orange",
+            "margin": "1rem",
+            "textDecoration": "none",
+          }
+        }
+      >
+        Calculator
+      </a>
+    </li>
+    <li>
+      <a
+        className=""
+        href="/quote"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "orange",
+            "margin": "1rem",
+            "textDecoration": "none",
+          }
+        }
+      >
+        Quote
+      </a>
+    </li>
+  </ul>,
+  <h2
+    className="title"
+  >
+    Math Magicians
+  </h2>,
+  <h1>
+    omar
+  </h1>,
+  <div
+    className="App"
+  >
+    <div
+      className="home"
+    >
+      <h2>
+        Welcome to our page
+      </h2>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum neque egestas congue quisque egestas diam in arcu cursus. Non nisi est sit amet facilisis magna. Amet tellus cras adipiscing enim eu turpis egestas. Nullam vehicula ipsum a arcu cursus vitae congue mauris. Et malesuada fames ac turpis egestas sed. Elit ullamcorper dignissim cras tincidunt lobortis
+      </p>
+    </div>
+  </div>,
+]
+`;

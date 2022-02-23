@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Quote component Quote renders correctly 1`] = `
+<div>
+  
+</div>
+`;
+
+exports[`Testing Quote component Quote renders correctly 1`] = `
+<div>
+  
+</div>
+`;

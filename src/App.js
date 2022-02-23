@@ -9,6 +9,7 @@ import Quote from './components/Quote';
 const App = () => (
   <Router>
     <Header />
+    <h1>omar</h1>
     <div className="App">
       <Routes>
         <Route exact path="/" element={<Home />} />
