@@ -20,7 +20,7 @@ create the Math Magicians app which inculde a functionality for calculator
 - React testing library
 
 ## Live Demo
-### ![Heroku](https://mathmagicians0.herokuapp.com/)
+### [Heroku](https://mathmagicians0.herokuapp.com/)
 
 ## Getting Started
 
