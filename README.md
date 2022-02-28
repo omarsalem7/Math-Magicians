@@ -21,6 +21,7 @@ create the Math Magicians app which inculde a functionality for calculator
 
 ## Live Demo
 #### [Heroku](https://mathmagicians0.herokuapp.com/)
+#### [Netlify](https://math-magicans.netlify.app/)
 
 ## Getting Started
 
