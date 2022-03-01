@@ -7,7 +7,7 @@ create the Math Magicians app which inculde a functionality for calculator
 ## Features:
 - Add UI for calculator by using react components
 - Add Events to calcultor
-- Add quotes api
+- Add quotes api.
 - Using react router.
 - Testing the app with jest and react testing library 
 
