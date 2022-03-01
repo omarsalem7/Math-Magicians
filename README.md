@@ -16,13 +16,19 @@ create the Math Magicians app which inculde a functionality for calculator
 - React
 - CSS
 - Linters
+- Jest
+- React testing library
+
+## Live Demo
+#### [Heroku](https://mathmagicians0.herokuapp.com/)
+#### [Netlify](https://math-magicans.netlify.app/)
 
 ## Getting Started
 
 after cloneing
 
 ```
-cd MY-APP
+cd Math-Magicians
 npm install
 npm start
 ```
