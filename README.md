@@ -13,11 +13,16 @@ create the Math Magicians app which inculde a functionality for calculator
 
 ## Built using
 
-- React
-- CSS
-- Linters
-- Jest
-- React testing library
+- Technologies used 
+  
+  ``` bash
+  - React 
+  - CSS
+  - Linters
+  - Jest
+  - React testing library
+  - Git version control
+  ```
 
 ## Live Demo
 #### [Heroku](https://mathmagicians0.herokuapp.com/)
